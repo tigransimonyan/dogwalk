@@ -38,21 +38,6 @@ facebook: username
 #linkedin:          username
 #xing:              username
 instagram: username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-#behance: username
 
 # Gems
 gems:
