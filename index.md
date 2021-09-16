@@ -4,8 +4,6 @@ layout: home
 
 # Մեր մասին
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Մեր հոգատար զբոսավարը կապավովի Ձեր շան անվտանգությունը զբոսանքի ողջ ընթացքում։
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Գրանցման համար զանգահարեք՝ <a href="tel:+374 91 130707">+374 91 130707</a> հեռախոսահամարով կամ գրեք նամակ նշված սոց. ցանցերում։
